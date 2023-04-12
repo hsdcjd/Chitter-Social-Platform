@@ -1,0 +1,32 @@
+[ 
+    {
+      "_id": "1",
+      "username": "johnsmith",
+      "content": "Just ate a delicious sandwich!",
+      "createdAt": "2022-03-22T14:30:00.000Z"
+    },
+    {
+      "_id": "2",
+      "username": "janedoe",
+      "content": "Excited to start my new job tomorrow!",
+      "createdAt": "2022-03-21T09:45:00.000Z"
+    },
+    {
+      "_id": "3",
+      "username": "bobross",
+      "content": "Painting a beautiful landscape today",
+      "createdAt": "2022-03-20T13:15:00.000Z"
+    },
+    {
+      "_id": "4",
+      "username": "sarahlee",
+      "content": "Can't wait for the weekend!",
+      "createdAt": "2022-03-19T18:20:00.000Z"
+    }
+]
+
+
+
+
+
+
